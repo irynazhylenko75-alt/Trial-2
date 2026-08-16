@@ -21,7 +21,7 @@ number =math.pow(2,3)
 print (number)
 print (math.pow (13, 3))
 
-number = 100
+number = 225
 print (math.sqrt(number))
 
 angle=60
