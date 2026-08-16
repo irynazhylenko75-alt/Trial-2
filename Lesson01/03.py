@@ -10,7 +10,7 @@ angle = 45
 result = math.cos(math.radians(angle))
 print  (result)
 
-number =16
+number =25
 result = math.sqrt(number)
 print (result)
 
