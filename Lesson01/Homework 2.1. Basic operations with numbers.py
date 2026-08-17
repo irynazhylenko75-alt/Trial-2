@@ -47,3 +47,11 @@ print ("The perimeter of the rectangle is ", perimeter, "cm")
 #  Виведення числа в стовпчик
 number = int(input("Please enter a four-digit number"))
 first_digit = number // 1000
+second_digit = (number // 100) % 10
+third_digit = (number // 10) % 10
+fourth_digit = number % 10
+print ("The first digit of number is ", first_digit)
+print("The second digit of number is ", second_digit)
+print("The third digit of number is ", third_digit)
+print("The fourth digit of number is ", fourth_digit)
+
